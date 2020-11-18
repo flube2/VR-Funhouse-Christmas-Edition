@@ -19,6 +19,6 @@ Snowman :
 	Model Assembly - Frank Lubek
 	Model Materials - Frank Lubek
 Candy Cane - "3D Xmas stuff model" Pack/kandy_kane_wellbended.fbx - GAMEASS - https://www.turbosquid.com/3d-models/3d-christmas-xmas-stuffs-model-1345221 (Turbosquid Standard 3D Model License)
-
+Candy (Lollipop, Chocolate Bar, PB Cup) - 
 
 Level 2: Grandma's House
