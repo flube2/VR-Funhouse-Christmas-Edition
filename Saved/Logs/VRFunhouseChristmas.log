@@ -1618,3 +1618,117 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.21-12.20.07:758][509]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.21-12.20.07:759][509]LogContentValidation: Display: Validating World /Game/LEAssets/Maps/Level1.Level1
 [2020.11.21-12.20.07:759][509]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LEAssets/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.11.21-12.22.40:257][ 57]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane5)
+[2020.11.21-12.22.47:043][805]LogActorFactory: Actor Factory created Plane
+[2020.11.21-12.22.49:192][ 59]LogActorFactory: Actor Factory created Plane
+[2020.11.21-12.25.03:205][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2020.11.21-12.25.03:951][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2020.11.21-12.27.00:203][ 29]AssetReimport: New page: Outstanding source content changes 12:27:00 AM
+[2020.11.21-12.27.00:221][ 29]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Content/ExternalAssets/Level1/Painting/fbxPainting.fbx)
+[2020.11.21-12.27.00:246][ 29]LogFbx: Loading FBX Scene from C:/Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Content/ExternalAssets/Level1/Painting/fbxPainting.fbx
+[2020.11.21-12.27.00:271][ 29]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.21-12.27.02:200][ 29]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.11.21-12.27.08:147][ 29]LogStaticMesh: Building static mesh fbxPainting...
+[2020.11.21-12.27.08:192][ 29]LogStaticMesh: Built static mesh [0.05s] /Game/ExternalAssets/Level1/Painting/fbxPainting.fbxPainting
+[2020.11.21-12.27.08:376][ 30]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2020.11.21-12.27.08:485][ 30]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/fbxPaintingC679C71842C0599DAC2619B413C6728A.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Content/ExternalAssets/Level1/Painting/fbxPainting.uasset'
+[2020.11.21-12.27.08:599][ 31]AssetCheck: New page: Asset Save: fbxPainting
+[2020.11.21-12.27.08:599][ 31]LogContentValidation: Display: Validating StaticMesh /Game/ExternalAssets/Level1/Painting/fbxPainting.fbxPainting
+[2020.11.21-12.27.09:200][ 60]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2020.11.21-12.27.09:893][ 94]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2020.11.21-12.27.09:976][ 98]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.11.21-12.27.10:053][102]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.11.21-12.27.10:180][109]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2020.11.21-12.27.10:222][111]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.11.21-12.27.11:108][182]LogSlate: Window 'Message Log' being destroyed
+[2020.11.21-12.27.11:113][182]LogSlate: Window 'Message Log' being destroyed
+[2020.11.21-12.27.11:535][232]AssetReimport: Importing new asset /Game/ExternalAssets/Level1/Painting/fbxPainting.
+[2020.11.21-12.27.13:835][457]AssetReimport: New page: Outstanding source content changes 12:27:13 AM
+[2020.11.21-12.27.13:836][457]LogEditorFactories: Performing atomic reimport of [C:/Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Content/ExternalAssets/Level1/Painting/fbxPainting.fbm/painting.jpg]
+[2020.11.21-12.27.13:845][457]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Content/ExternalAssets/Level1/Painting/fbxPainting.fbm/painting.jpg)
+[2020.11.21-12.27.18:804][457]LogEditorFactories: -- imported successfully
+[2020.11.21-12.27.18:883][458]LogEditorFactories: Performing atomic reimport of [C:/Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Content/ExternalAssets/Level1/Painting/fbxPainting.fbm/paintingbump.jpg]
+[2020.11.21-12.27.18:890][458]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Content/ExternalAssets/Level1/Painting/fbxPainting.fbm/paintingbump.jpg)
+[2020.11.21-12.27.19:508][458]LogEditorFactories: -- imported successfully
+[2020.11.21-12.27.22:566][813]AssetReimport: Reimported asset painting from C:/Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Content/ExternalAssets/Level1/Painting/fbxPainting.fbm/painting.jpg.
+[2020.11.21-12.27.22:566][813]AssetReimport: Reimported asset paintingbump from C:/Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Content/ExternalAssets/Level1/Painting/fbxPainting.fbm/paintingbump.jpg.
+[2020.11.21-12.27.53:719][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.21-12.27.57:051][209]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.21-12.27.57:264][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.21-12.27.57:278][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.11.21-12.27.57:301][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.21-12.27.57:315][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.11.21-12.29.38:892][429]LogCore: Display: AppLifetime: Application will enter background
+[2020.11.21-12.29.38:892][429]LogHMD: SteamVR Shutting down.
+[2020.11.21-12.30.15:491][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.21-12.30.15:612][675]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/Level1_Auto217C6D3DA4AD30770B463E490F8BAF842.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/Autosaves/Game/LEAssets/Maps/Level1_Auto2.umap'
+[2020.11.21-12.30.15:614][675]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LEAssets/Maps/Level1' took 0.135
+[2020.11.21-12.30.15:614][675]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.135
+[2020.11.21-12.30.15:614][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ExternalAssets/Level1/Painting/blinn2] ([1] browsable assets)...
+[2020.11.21-12.30.15:626][675]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ExternalAssets/Level1/Painting/blinn2.blinn2]
+[2020.11.21-12.30.15:627][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExternalAssets/Level1/Painting/blinn2]
+[2020.11.21-12.30.15:638][675]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/blinn2_Auto2ABFDDAF54034D6675473C38E9253EEF5.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/Autosaves/Game/ExternalAssets/Level1/Painting/blinn2_Auto2.uasset'
+[2020.11.21-12.30.15:639][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ExternalAssets/Level1/Painting/paintingbump] ([1] browsable assets)...
+[2020.11.21-12.30.15:641][675]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ExternalAssets/Level1/Painting/paintingbump.paintingbump]
+[2020.11.21-12.30.15:641][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExternalAssets/Level1/Painting/paintingbump]
+[2020.11.21-12.30.15:663][675]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/paintingbump_Auto20773E7854750C4092F3319A35CD6BEC8.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/Autosaves/Game/ExternalAssets/Level1/Painting/paintingbump_Auto2.uasset'
+[2020.11.21-12.30.15:663][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ExternalAssets/Level1/Painting/painting] ([1] browsable assets)...
+[2020.11.21-12.30.15:666][675]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ExternalAssets/Level1/Painting/painting.painting]
+[2020.11.21-12.30.15:666][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExternalAssets/Level1/Painting/painting]
+[2020.11.21-12.30.15:690][675]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/painting_Auto2C8EB8A9B46E8C334C8A48688972EAC94.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/Autosaves/Game/ExternalAssets/Level1/Painting/painting_Auto2.uasset'
+[2020.11.21-12.30.15:691][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ExternalAssets/Level1/Painting/lambert2] ([1] browsable assets)...
+[2020.11.21-12.30.15:700][675]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ExternalAssets/Level1/Painting/lambert2.lambert2]
+[2020.11.21-12.30.15:700][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExternalAssets/Level1/Painting/lambert2]
+[2020.11.21-12.30.15:712][675]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/lambert2_Auto2A96CE56E473E6D610C8CA296C915853E.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/Autosaves/Game/ExternalAssets/Level1/Painting/lambert2_Auto2.uasset'
+[2020.11.21-12.30.15:713][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ExternalAssets/Level1/Painting/blinn1] ([1] browsable assets)...
+[2020.11.21-12.30.15:721][675]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ExternalAssets/Level1/Painting/blinn1.blinn1]
+[2020.11.21-12.30.15:721][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExternalAssets/Level1/Painting/blinn1]
+[2020.11.21-12.30.15:732][675]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/blinn1_Auto249CC5B5C4F62CFADF764A7A257DCF41C.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/Autosaves/Game/ExternalAssets/Level1/Painting/blinn1_Auto2.uasset'
+[2020.11.21-12.30.15:733][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ExternalAssets/Level1/Bookcase/BOOKS_TEXTURE_Mat] ([1] browsable assets)...
+[2020.11.21-12.30.15:742][675]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ExternalAssets/Level1/Bookcase/BOOKS_TEXTURE_Mat.BOOKS_TEXTURE_Mat]
+[2020.11.21-12.30.15:742][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExternalAssets/Level1/Bookcase/BOOKS_TEXTURE_Mat]
+[2020.11.21-12.30.15:754][675]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/BOOKS_TEXTURE_Mat_Auto2AC6FD3A54B29D88D721A39A17177D349.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/Autosaves/Game/ExternalAssets/Level1/Bookcase/BOOKS_TEXTURE_Mat_Auto2.uasset'
+[2020.11.21-12.30.15:755][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ExternalAssets/Level1/Bookcase/SHELF_TEXTURE_Mat] ([1] browsable assets)...
+[2020.11.21-12.30.15:763][675]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ExternalAssets/Level1/Bookcase/SHELF_TEXTURE_Mat.SHELF_TEXTURE_Mat]
+[2020.11.21-12.30.15:763][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExternalAssets/Level1/Bookcase/SHELF_TEXTURE_Mat]
+[2020.11.21-12.30.15:775][675]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/SHELF_TEXTURE_Mat_Auto2EA1E1A594B54133A6CB14F97F8F55425.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/Autosaves/Game/ExternalAssets/Level1/Bookcase/SHELF_TEXTURE_Mat_Auto2.uasset'
+[2020.11.21-12.30.15:776][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ExternalAssets/Level1/Bookcase/SHELF_Mat] ([1] browsable assets)...
+[2020.11.21-12.30.15:783][675]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ExternalAssets/Level1/Bookcase/SHELF_Mat.SHELF_Mat]
+[2020.11.21-12.30.15:783][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExternalAssets/Level1/Bookcase/SHELF_Mat]
+[2020.11.21-12.30.15:795][675]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/SHELF_Mat_Auto26AF232B0462E96AAC6C022B1EA14C2EC.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/Autosaves/Game/ExternalAssets/Level1/Bookcase/SHELF_Mat_Auto2.uasset'
+[2020.11.21-12.30.15:795][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ExternalAssets/Level1/Bookcase/Object007Mat] ([1] browsable assets)...
+[2020.11.21-12.30.15:805][675]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ExternalAssets/Level1/Bookcase/Object007Mat.Object007Mat]
+[2020.11.21-12.30.15:805][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExternalAssets/Level1/Bookcase/Object007Mat]
+[2020.11.21-12.30.15:816][675]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/Object007Mat_Auto206974E6A43B50A742B93ED96E961BD1A.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/Autosaves/Game/ExternalAssets/Level1/Bookcase/Object007Mat_Auto2.uasset'
+[2020.11.21-12.30.15:817][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ExternalAssets/Level1/Bookcase/SHELFMat] ([1] browsable assets)...
+[2020.11.21-12.30.15:825][675]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ExternalAssets/Level1/Bookcase/SHELFMat.SHELFMat]
+[2020.11.21-12.30.15:826][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExternalAssets/Level1/Bookcase/SHELFMat]
+[2020.11.21-12.30.15:836][675]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/SHELFMat_Auto2DB476E814D830452EDC52A82A7302DD2.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Saved/Autosaves/Game/ExternalAssets/Level1/Bookcase/SHELFMat_Auto2.uasset'
+[2020.11.21-12.30.15:837][675]LogFileHelpers: Auto-saving content packages took 0.223
+[2020.11.21-12.30.48:839][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.11.21-12.30.49:326][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BOOKS_OBJ)
+[2020.11.21-12.31.12:067][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.11.21-12.31.24:276][409]LogMaterial: Display: Missing cached shader map for material painting_Mat, compiling. 
+[2020.11.21-12.31.24:289][409]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 15
+[2020.11.21-12.31.24:289][409]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2020.11.21-12.31.24:289][409]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2020.11.21-12.31.24:289][409]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2020.11.21-12.31.24:289][409]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2020.11.21-12.31.24:289][409]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2020.11.21-12.31.24:289][409]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.11.21-12.31.24:289][409]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.11.21-12.31.27:023][660]Cmd: TRANSACTION UNDO
+[2020.11.21-12.31.27:023][660]LogEditorTransaction: Undo Create Actors
+[2020.11.21-12.31.29:709][904]LogActorFactory: Actor Factory created fbxPainting
+[2020.11.21-12.31.30:175][957]LogActorFactory: Actor Factory created fbxPainting
+[2020.11.21-12.31.36:147][656]Cmd: DELETE
+[2020.11.21-12.31.36:147][656]Cmd: ACTOR DELETE
+[2020.11.21-12.31.36:152][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.21-12.31.36:166][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.21-12.31.36:169][656]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.11.21-12.31.55:512][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fbxPainting)
+[2020.11.21-12.32.35:083][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.11.21-12.32.37:843][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fbxPainting)
+[2020.11.21-12.32.39:083][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fbxPainting)
+[2020.11.21-12.32.41:341][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fbxPainting)
+[2020.11.21-12.32.42:028][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SHELF_OBJ3)
