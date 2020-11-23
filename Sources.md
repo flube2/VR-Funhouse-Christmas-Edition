@@ -20,6 +20,14 @@ Snowman :
 	Model Materials - Frank Lubek
 Candy Cane - "3D Xmas stuff model" Pack/kandy_kane_wellbended.fbx - GAMEASS - https://www.turbosquid.com/3d-models/3d-christmas-xmas-stuffs-model-1345221 (Turbosquid Standard 3D Model License)
 Candy (Lollipop, Chocolate Bar, PB Cup) - "Candy Set" Pack - Snakelover - https://www.turbosquid.com/3d-models/set-candy-lollipop-chocolate-3ds/330185 (Turbosquid Standard 3D Model License)
+Snowball - "3D Cliffside Rock One model"/Cliff_Rock_One_FBX.fbx - GetDeadEntertainment - https://www.turbosquid.com/3d-models/3d-rock-cliff-model-1623382 (Turbosquid Standard 3D Model License)
+Star - star.obj - boommaster - https://www.turbosquid.com/3d-models/star-3ds/378264 (Turbosquid Standard 3D Model License)
+Bookcase - "Book Case" - Michael Singh - https://www.turbosquid.com/3d-models/bookcase-ase-books-free/688367 (Turbosquid Standard 3D Model License)
+Grill - "3D Old Grill"/Grill.fbx - Iridesium - https://www.turbosquid.com/3d-models/3d-medieval-grill-1386043 (Turbosquid Standard 3D Model License)
+Painting - "Relaxing Sip, WaterColor. 3D model"/fbxPainting.fbx - Marc Mons - https://www.turbosquid.com/3d-models/painting-art-picture-3d-model-1279027 (Turbosquid Standard 3D Model License)
+Pedestal - 001_Pedestal_low_poly.fbx - Roombaroom - https://www.turbosquid.com/3d-models/free-max-model-architectural-modules/767833 (Turbosquid Standard 3D Model License)
+Igloo - "3D Igloo model"/iglu.fbx - TacoKid - https://www.turbosquid.com/3d-models/3d-igloo-model-1311202 (Turbosquid Standard 3D Model License)
+
 Particle Effects (UE Market)
 
 
