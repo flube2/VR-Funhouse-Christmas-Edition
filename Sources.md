@@ -36,7 +36,9 @@ Glass Break Sound - glass-break.flac - unfa - https://freesound.org/people/unfa/
 Present Open Sound - drop-box.wav - newagesoup - https://freesound.org/people/newagesoup/sounds/364740/ (CC0 License)
 Candy Pickup Sound - pickup-candy.wav - Davidsraba - https://freesound.org/people/Davidsraba/sounds/347174/ (CC0 License)
 Snowball Pickup Sound - pickup-snowball.wav - GreenFireSound - https://freesound.org/people/GreenFireSound/sounds/501888/ (CC0 License)
-Candy Cane Pickup - pickup-candy-cane.wav - volivieri - https://freesound.org/people/volivieri/sounds/37177/ - (CC Attribution License)
+Candy Cane Pickup Sound - pickup-candy-cane.wav - volivieri - https://freesound.org/people/volivieri/sounds/37177/ - (CC Attribution License)
+Star Pickup Sound - pickup-star.wav - LeonsFlashlight - https://freesound.org/people/LeonsFlashlight/sounds/135014/ (CC0 Attribution License)
+
 
 
 Review These:
