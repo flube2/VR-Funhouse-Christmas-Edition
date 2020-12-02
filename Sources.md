@@ -1,3 +1,7 @@
+“VR Funhouse: Christmas Edition uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
+Unreal® Engine, Copyright 1998 – 2020, Epic Games, Inc. All rights reserved.”
+
+
 General
 Re-map Inputs - Frank Lubek
 
@@ -27,6 +31,9 @@ Grill - "3D Old Grill"/Grill.fbx - Iridesium - https://www.turbosquid.com/3d-mod
 Painting - "Relaxing Sip, WaterColor. 3D model"/fbxPainting.fbx - Marc Mons - https://www.turbosquid.com/3d-models/painting-art-picture-3d-model-1279027 (Turbosquid Standard 3D Model License)
 Pedestal - 001_Pedestal_low_poly.fbx - Roombaroom - https://www.turbosquid.com/3d-models/free-max-model-architectural-modules/767833 (Turbosquid Standard 3D Model License)
 Igloo - "3D Igloo model"/iglu.fbx - TacoKid - https://www.turbosquid.com/3d-models/3d-igloo-model-1311202 (Turbosquid Standard 3D Model License)
+Duck - 
+Candy Cane, Gifts, - 
+
 
 
 Audio:
