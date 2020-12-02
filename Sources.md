@@ -32,7 +32,9 @@ Painting - "Relaxing Sip, WaterColor. 3D model"/fbxPainting.fbx - Marc Mons - ht
 Pedestal - 001_Pedestal_low_poly.fbx - Roombaroom - https://www.turbosquid.com/3d-models/free-max-model-architectural-modules/767833 (Turbosquid Standard 3D Model License)
 Igloo - "3D Igloo model"/iglu.fbx - TacoKid - https://www.turbosquid.com/3d-models/3d-igloo-model-1311202 (Turbosquid Standard 3D Model License)
 Duck - 
-Candy Cane, Gifts, - 
+Candy Cane, Gifts, -
+Shovel -  
+Window - 
 
 
 
@@ -48,6 +50,11 @@ Star Pickup Sound - pickup-star.wav - LeonsFlashlight - https://freesound.org/pe
 Ambient Wind Sound - ambient-wind.wav - Nox_Sound - https://freesound.org/people/Nox_Sound/sounds/544853/ (CC0 Attribution License)
 No!! - no.wav - Artmasterrich - https://freesound.org/people/Artmasterrich/sounds/345466/ (CC0 Attribution License)
 Snowman Destroy Sound - gore-splat.wav - Artmasterrich - https://freesound.org/people/Artmasterrich/sounds/345466/ (CC0 Attribution License)
+Intro - WinterWonderland.wav - Frank Lubek
+HeyYouBrokeSantasWindow.wav - Frank Lubek
+HeyThatsMyHatGiveItBack.wav - Frank Lubek
+DontDisturbMe.wav - Frank Lubek
+Shovel Pickup Sound - pickup-shovel.wav - zepurple - https://freesound.org/people/zepurple/sounds/540264/ (CC0 License)
 
 
 
