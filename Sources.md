@@ -35,6 +35,7 @@ Duck -
 Candy Cane, Gifts, -
 Shovel -  
 Window - 
+Candle and Stand - 
 
 
 
