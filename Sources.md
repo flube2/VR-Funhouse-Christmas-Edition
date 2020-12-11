@@ -34,7 +34,7 @@ Igloo - "3D Igloo model"/iglu.fbx - TacoKid - https://www.turbosquid.com/3d-mode
 Duck - 
 Candy Cane, Gifts, -
 Shovel -  
-Window - 
+Window - BP_Window - Frank Lubek
 Candle and Stand - 
 
 
@@ -47,10 +47,10 @@ Present Open Sound - drop-box.wav - newagesoup - https://freesound.org/people/ne
 Candy Pickup Sound - pickup-candy.wav - Davidsraba - https://freesound.org/people/Davidsraba/sounds/347174/ (CC0 License)
 Snowball Pickup Sound - pickup-snowball.wav - GreenFireSound - https://freesound.org/people/GreenFireSound/sounds/501888/ (CC0 License)
 Candy Cane Pickup Sound - pickup-candy-cane.wav - volivieri - https://freesound.org/people/volivieri/sounds/37177/ - (CC Attribution License)
-Star Pickup Sound - pickup-star.wav - LeonsFlashlight - https://freesound.org/people/LeonsFlashlight/sounds/135014/ (CC0 Attribution License)
-Ambient Wind Sound - ambient-wind.wav - Nox_Sound - https://freesound.org/people/Nox_Sound/sounds/544853/ (CC0 Attribution License)
-No!! - no.wav - Artmasterrich - https://freesound.org/people/Artmasterrich/sounds/345466/ (CC0 Attribution License)
-Snowman Destroy Sound - gore-splat.wav - Artmasterrich - https://freesound.org/people/Artmasterrich/sounds/345466/ (CC0 Attribution License)
+Star Pickup Sound - pickup-star.wav - LeonsFlashlight - https://freesound.org/people/LeonsFlashlight/sounds/135014/ (CC0 License)
+Ambient Wind Sound - ambient-wind.wav - Nox_Sound - https://freesound.org/people/Nox_Sound/sounds/544853/ (CC0 License)
+No!! - no.wav - Artmasterrich - https://freesound.org/people/Artmasterrich/sounds/345466/ (CC0 License)
+Snowman Destroy Sound - gore-splat.wav - Artmasterrich - https://freesound.org/people/Artmasterrich/sounds/345466/ (CC0 License)
 Intro - WinterWonderland.wav - Frank Lubek
 HeyYouBrokeSantasWindow.wav - Frank Lubek
 HeyThatsMyHatGiveItBack.wav - Frank Lubek
@@ -62,7 +62,8 @@ Shovel Pickup Sound - pickup-shovel.wav - zepurple - https://freesound.org/peopl
 Review These:
 Present1 - 
 Present2 - "Gift Box with Red rubbons"/prezentBOX.fbx - POPA_3D - https://www.turbosquid.com/3d-models/free-3ds-model-gift-box-red/450470 (Turbosquid Standard 3D Model License)
-
+Present3 - 
+Present4 - 
 
 Particle Effects (UE Market)
 
@@ -74,3 +75,17 @@ Red Brick Material - MegaScans Clean Brick Pack -
 Concrete - Megascans Concrete Vol. 2 - 
 Wood Textures - Megascans Wooden Veneer (check name)
 Door Material - MI_Door - AncientOrange https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2F333c539c-253d-4900-aab3-9e9bdd76327a%2Fd4ix003-58809ae6-5394-481d-aef8-8b4cde39b0bb.jpg%2Fv1%2Ffill%2Fw_900%2Ch_1800%2Cq_75%2Cstrp%2Fdoor_texture_by_ancientorange_d4ix003-fullview.jpg%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xODAwIiwicGF0aCI6IlwvZlwvMzMzYzUzOWMtMjUzZC00OTAwLWFhYjMtOWU5YmRkNzYzMjdhXC9kNGl4MDAzLTU4ODA5YWU2LTUzOTQtNDgxZC1hZWY4LThiNGNkZTM5YjBiYi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.G0UF06CN_kk8u05oygxrfhZ0kJ5gCnFRcHa9jh1DOPk&imgrefurl=https%3A%2F%2Fwww.deviantart.com%2Fancientorange%2Fart%2Fdoor-texture-273637443&tbnid=FltMnDgpXDA_3M&vet=12ahUKEwisrKrO1sDtAhXIJ6wKHTZKDLAQMygBegUIARCxAQ..i&docid=-O10YFXt3mAGAM&w=900&h=1800&q=unity%20door%20texture&ved=2ahUKEwisrKrO1sDtAhXIJ6wKHTZKDLAQMygBegUIARCxAQ
+
+
+House and Closet - Frank Lubek
+Fireplace - BP_Fireplace - Frank Lubek
+Logs - 
+Coal Chunks - BP_CoalChunk - Frank Lubek
+Deer - deer.obj - bariacg - https://www.turbosquid.com/3d-models/3d-model-deer-character/790756 (Turbosquid Standard 3D Model License)
+BP_PresentMultiContents - Frank Lubek
+Table - Frank Lubek
+
+
+
+
+
