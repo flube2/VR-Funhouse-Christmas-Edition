@@ -1,4 +1,9 @@
-“VR Funhouse: Christmas Edition uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
+#SOURCES.md
+
+Everything not listed was created by Frank Lubek, unless I forgot to include credits, in which case, let me know!
+I'm only human.
+
+Legal: “VR Funhouse: Christmas Edition uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
 Unreal® Engine, Copyright 1998 – 2020, Epic Games, Inc. All rights reserved.”
 
 
@@ -71,11 +76,16 @@ Particle Effects (UE Market)
 
 
 Level 2: Grandma's House
+#Anything reused from level 1 will likely not be listed again. See above credits.
+
+Materials:
+
 Red Brick Material - MegaScans Clean Brick Pack - 
 Concrete - Megascans Concrete Vol. 2 - 
 Wood Textures - Megascans Wooden Veneer (check name)
 Door Material - MI_Door - AncientOrange https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2F333c539c-253d-4900-aab3-9e9bdd76327a%2Fd4ix003-58809ae6-5394-481d-aef8-8b4cde39b0bb.jpg%2Fv1%2Ffill%2Fw_900%2Ch_1800%2Cq_75%2Cstrp%2Fdoor_texture_by_ancientorange_d4ix003-fullview.jpg%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xODAwIiwicGF0aCI6IlwvZlwvMzMzYzUzOWMtMjUzZC00OTAwLWFhYjMtOWU5YmRkNzYzMjdhXC9kNGl4MDAzLTU4ODA5YWU2LTUzOTQtNDgxZC1hZWY4LThiNGNkZTM5YjBiYi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.G0UF06CN_kk8u05oygxrfhZ0kJ5gCnFRcHa9jh1DOPk&imgrefurl=https%3A%2F%2Fwww.deviantart.com%2Fancientorange%2Fart%2Fdoor-texture-273637443&tbnid=FltMnDgpXDA_3M&vet=12ahUKEwisrKrO1sDtAhXIJ6wKHTZKDLAQMygBegUIARCxAQ..i&docid=-O10YFXt3mAGAM&w=900&h=1800&q=unity%20door%20texture&ved=2ahUKEwisrKrO1sDtAhXIJ6wKHTZKDLAQMygBegUIARCxAQ
 
+Models and Blueprints:
 
 House and Closet - Frank Lubek
 Fireplace - BP_Fireplace - Frank Lubek
@@ -85,7 +95,7 @@ Deer - deer.obj - bariacg - https://www.turbosquid.com/3d-models/3d-model-deer-c
 BP_PresentMultiContents - Frank Lubek
 Table - Frank Lubek
 
-
+Audio:
 
 
 
