@@ -1,18 +1,23 @@
 #SOURCES.md
 
-Everything not listed was created by Frank Lubek, unless I forgot to include credits, in which case, let me know!
-I'm only human.
+*Everything not listed was **likely** created by Frank Lubek, unless I forgot to include credits, in which case, let me know!*
 
-Legal: “VR Funhouse: Christmas Edition uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
+Legal: 
+None of the credited persons have endorsed this game in any way, shape, or form.
+This game has been created solely by Frank Lubek from Lubek Enterprises and all content has been attributed, whether mandated by licensing or not, to the best of abilities. 
+Lubek Enterprises has done their best to attribute credits, HOWEVER, if you find that they have used your files without attribution, or any issues, please email flubek@gmail.com with the email subject being "VRFHCE Copyright Violation" or "VRFHCE Issue"
+and the content will either be attributed or replaced promptly. 
+
+*I'm only human, sometimes I over look things. And if I'm not aware of them, I can't correct any issues.*
+
+UE Legal:
+“VR Funhouse: Christmas Edition uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
 Unreal® Engine, Copyright 1998 – 2020, Epic Games, Inc. All rights reserved.”
+
 
 
 General
 Re-map Inputs - Frank Lubek
-
-
-
-Intro / Menus
 
 
 
@@ -60,6 +65,7 @@ Intro - WinterWonderland.wav - Frank Lubek
 HeyYouBrokeSantasWindow.wav - Frank Lubek
 HeyThatsMyHatGiveItBack.wav - Frank Lubek
 DontDisturbMe.wav - Frank Lubek
+ThatsItYoureGettingCoalForChristmas.wav - Frank Lubek
 Shovel Pickup Sound - pickup-shovel.wav - zepurple - https://freesound.org/people/zepurple/sounds/540264/ (CC0 License)
 
 
@@ -87,15 +93,16 @@ Door Material - MI_Door - AncientOrange https://www.google.com/imgres?imgurl=htt
 
 Models and Blueprints:
 
-House and Closet - Frank Lubek
+House and Closet Design And Layout - Frank Lubek
 Fireplace - BP_Fireplace - Frank Lubek
 Logs - 
-Coal Chunks - BP_CoalChunk - Frank Lubek
+Coal Chunks - BP_CoalChunk - Frank Lubek (Snowball from Level 1 used as a base object)
 Deer - deer.obj - bariacg - https://www.turbosquid.com/3d-models/3d-model-deer-character/790756 (Turbosquid Standard 3D Model License)
 BP_PresentMultiContents - Frank Lubek
 Table - Frank Lubek
 
 Audio:
 Ornament Sound - "clink- on glass- dull.wav"/orn.wav - freemaster2 - https://freesound.org/people/freemaster2/sounds/120842/ (CC0 License)
+
 
 
