@@ -100,9 +100,12 @@ Coal Chunks - BP_CoalChunk - Frank Lubek (Snowball from Level 1 used as a base o
 Deer - deer.obj - bariacg - https://www.turbosquid.com/3d-models/3d-model-deer-character/790756 (Turbosquid Standard 3D Model License)
 BP_PresentMultiContents - Frank Lubek
 Table - Frank Lubek
+Santa - 
+Gingerbread Man - 
 
 Audio:
 Ornament Sound - "clink- on glass- dull.wav"/orn.wav - freemaster2 - https://freesound.org/people/freemaster2/sounds/120842/ (CC0 License)
-
+Fire Whoosh - fire_flare_up.wav -  kev_durr - https://freesound.org/people/kev_durr/sounds/426208/ (CC Attribution License)
+Deer Sound - deer.wav - dobroide - https://freesound.org/people/dobroide/sounds/104581/ (CC Attribution License)
 
 
