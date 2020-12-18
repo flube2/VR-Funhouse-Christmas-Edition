@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.vr-funhouse:-christmas-edition-14469661.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "C:/Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition - Copy/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "C:/Users/Admin/Documents/Unreal Projects/VR-Funhouse-Christmas-Edition/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
