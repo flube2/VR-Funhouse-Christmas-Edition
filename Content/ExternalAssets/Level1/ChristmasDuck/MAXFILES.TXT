@@ -1,6 +1,0 @@
-C:\Users\Michael\Documents\3d Models\xmas duck\t$m$p$$$\xmasduck.max
-C:\Users\Michael\Documents\3d Models\xmas duck\t$m$p$$$\MAXFILES.TXT
-C:\Users\Michael\Documents\3dsmax
-C:\Users\Michael\Documents\3d Models\xmas duck\xmasduckdiffusemap.tga
-C:\Users\Michael\Documents\3d Models\xmas duck\xmasduck_textures.psd
-C:\Program Files\Autodesk\3ds Max 9\maps\HDRs\KC_outside_Xsm_blur.hdr
