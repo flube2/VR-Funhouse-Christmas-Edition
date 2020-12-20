@@ -71,21 +71,17 @@ Shovel Pickup Sound - pickup-shovel.wav - zepurple - https://freesound.org/peopl
   
   
 Review These:
-Present1 - 
 Present2 - "Gift Box with Red rubbons"/prezentBOX.fbx - POPA_3D - https://www.turbosquid.com/3d-models/free-3ds-model-gift-box-red/450470 (Turbosquid Standard 3D Model License)
-Present3 - 
-Present4 - 
-
 Particle Effects (UE Market)
 
 
 
 
-Level 2: Grandma's House
-#Anything reused from level 1 will likely not be listed again. See above credits.
-
-Materials:
-
+Level 2: Grandma's House  
+#Anything reused from level 1 will likely not be listed again. See above credits.  
+  
+Materials:  
+  
 Red Brick Material - MegaScans Clean Brick Pack -   
 Concrete - Megascans Concrete Vol. 2 -   
 Wood Textures - Megascans Wooden Veneer (check name)  
@@ -95,16 +91,21 @@ Models and Blueprints:
   
 House and Closet Design And Layout - Frank Lubek  
 Fireplace - BP_Fireplace - Frank Lubek  
-Logs -   
+Logs - Half Cutted Log - wersaus33 - https://www.turbosquid.com/3d-models/half-cut-log-tree-3d-model-1203066 (Turbosquid Standard 3D Model License)  
 Coal Chunks - BP_CoalChunk - Frank Lubek (Snowball from Level 1 used as a base object)  
 Deer - deer.obj - bariacg - https://www.turbosquid.com/3d-models/3d-model-deer-character/790756 (Turbosquid Standard 3D Model License)  
 BP_PresentMultiContents - Frank Lubek  
 Table - Frank Lubek  
-Santa -   
-Gingerbread Man -   
-Wreath -   
+Santa - Santa - AsylumBoundGames - https://www.turbosquid.com/3d-models/santa-christmas-3d-max/638992 (Turbosquid Standard 3D Model License)  
+Gingerbread Man - Simple Gingerbread Character - Banism24 - https://www.turbosquid.com/3d-models/free-3ds-mode-simple-gingerbread-character/1095377 (Turbosquid Standard 3D Model License)  
+Wreath - Christmas Wreath - hyena5 - https://www.turbosquid.com/3d-models/christmas-wreaths-blend-free/1103754 (Turbosquid Standard 3D Model License)  
 Stocking - 
-
+XMas Tree - Pine Tree Model - Rock_Knot_8 - https://www.turbosquid.com/3d-models/pine-tree-model-1508559 (Turbosquid Standard 3D Model License)
+Bottle Set - bottleSet - milamila - https://www.turbosquid.com/3d-models/free-obj-model-set-bottles/1041766 (Turbosquid Standard 3D Model License)  
+Candle - Candle Christmas - Elena_shvets - https://www.turbosquid.com/3d-models/3ds-max-candle-christmas/980386 (Turbosquid Standard 3D Model License)  
+Cookie - Xmas Tree Cookie - gagui - https://www.turbosquid.com/3d-models/max-xmas-tree-cookie/785694 (Turbosquid Standard 3D Model License)  
+Mug - 3D Coffee Mug Low Poly model - rco_design - https://www.turbosquid.com/3d-models/3d-coffee-mug-model-1378005 (Turbosquid Standard 3D Model License)  
+Plate - Game Ready Plate - Etwin - https://www.turbosquid.com/3d-models/free-fbx-mode-simple-plate-games-ready/685481 (Turbosquid Standard 3D Model License)  
 
 Audio:
 Ornament Sound - "clink- on glass- dull.wav"/orn.wav - freemaster2 - https://freesound.org/people/freemaster2/sounds/120842/ (CC0 License)
