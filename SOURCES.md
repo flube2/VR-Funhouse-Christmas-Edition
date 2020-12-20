@@ -44,9 +44,9 @@ Pedestal - 001_Pedestal_low_poly.fbx - Roombaroom - https://www.turbosquid.com/3
 Igloo - "3D Igloo model"/iglu.fbx - TacoKid - https://www.turbosquid.com/3d-models/3d-igloo-model-1311202 (Turbosquid Standard 3D Model License)  
 Duck - Christmas Duck - MichaelTaylor3D - https://www.turbosquid.com/3d-models/free-christmas-duck-3d-model/567052 (Turbosquid Standard 3D Model License)  
 Shovel - Snow Shovel - kropaman - https://www.turbosquid.com/3d-models/realistic-snow-shovel-3d-model/971998 (Turbosquid Standard 3D Model License)  
-Window - BP_Window - Frank Lubek
-Candle and Stand - 
-SantaHat - Santa Hat -  khalidsrri - https://www.turbosquid.com/3d-models/free-santa-hat-3d-model/783551 (Turbosquid Standard 3D Model License)    
+Window - BP_Window - Frank Lubek  
+Candle and Stand - Candles - Tsaruk Shpinok - https://www.turbosquid.com/3d-models/free-max-model-decor-candles/1111309 (Turbosquid Standard 3D Model License)  
+SantaHat - Santa Hat -  khalidsrri - https://www.turbosquid.com/3d-models/free-santa-hat-3d-model/783551 (Turbosquid Standard 3D Model License)  
   
   
 Audio:  
