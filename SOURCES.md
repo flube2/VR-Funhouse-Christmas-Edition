@@ -32,15 +32,15 @@ Snowman :
 	Model Components: "Snowman Toy" - TroopR - https://www.turbosquid.com/3d-models/free-snowman-snow-toy-3d-model/569891 (Turbosquid Standard 3D Model License)  
 	Model Assembly - Frank Lubek  
 	Model Materials - Frank Lubek  
-Candy Cane - "3D Xmas stuff model" Pack/kandy_kane_wellbended.fbx - GAMEASS - https://www.turbosquid.com/3d-models/3d-christmas-xmas-stuffs-model-1345221 (Turbosquid Standard 3D Model License)
-Candy (Lollipop, Chocolate Bar, PB Cup) - "Candy Set" Pack - Snakelover - https://www.turbosquid.com/3d-models/set-candy-lollipop-chocolate-3ds/330185 (Turbosquid Standard 3D Model License)
-Snowball - "3D Cliffside Rock One model"/Cliff_Rock_One_FBX.fbx - GetDeadEntertainment - https://www.turbosquid.com/3d-models/3d-rock-cliff-model-1623382 (Turbosquid Standard 3D Model License)
-Star - star.obj - boommaster - https://www.turbosquid.com/3d-models/star-3ds/378264 (Turbosquid Standard 3D Model License)
-Bookcase - "Book Case" - Michael Singh - https://www.turbosquid.com/3d-models/bookcase-ase-books-free/688367 (Turbosquid Standard 3D Model License)
-Grill - "3D Old Grill"/Grill.fbx - Iridesium - https://www.turbosquid.com/3d-models/3d-medieval-grill-1386043 (Turbosquid Standard 3D Model License)
-Painting - "Relaxing Sip, WaterColor. 3D model"/fbxPainting.fbx - Marc Mons - https://www.turbosquid.com/3d-models/painting-art-picture-3d-model-1279027 (Turbosquid Standard 3D Model License)
-Pedestal - 001_Pedestal_low_poly.fbx - Roombaroom - https://www.turbosquid.com/3d-models/free-max-model-architectural-modules/767833 (Turbosquid Standard 3D Model License)
-Igloo - "3D Igloo model"/iglu.fbx - TacoKid - https://www.turbosquid.com/3d-models/3d-igloo-model-1311202 (Turbosquid Standard 3D Model License)
+Candy Cane - "3D Xmas stuff model" Pack/kandy_kane_wellbended.fbx - GAMEASS - https://www.turbosquid.com/3d-models/3d-christmas-xmas-stuffs-model-1345221 (Turbosquid Standard 3D Model License)  
+Candy (Lollipop, Chocolate Bar, PB Cup) - "Candy Set" Pack - Snakelover - https://www.turbosquid.com/3d-models/set-candy-lollipop-chocolate-3ds/330185 (Turbosquid Standard 3D Model License)  
+Snowball - "3D Cliffside Rock One model"/Cliff_Rock_One_FBX.fbx - GetDeadEntertainment - https://www.turbosquid.com/3d-models/3d-rock-cliff-model-1623382 (Turbosquid Standard 3D Model License)  
+Star - star.obj - boommaster - https://www.turbosquid.com/3d-models/star-3ds/378264 (Turbosquid Standard 3D Model License)  
+Bookcase - "Book Case" - Michael Singh - https://www.turbosquid.com/3d-models/bookcase-ase-books-free/688367 (Turbosquid Standard 3D Model License)  
+Grill - "3D Old Grill"/Grill.fbx - Iridesium - https://www.turbosquid.com/3d-models/3d-medieval-grill-1386043 (Turbosquid Standard 3D Model License)  
+Painting - "Relaxing Sip, WaterColor. 3D model"/fbxPainting.fbx - Marc Mons - https://www.turbosquid.com/3d-models/painting-art-picture-3d-model-1279027 (Turbosquid Standard 3D Model License)  
+Pedestal - 001_Pedestal_low_poly.fbx - Roombaroom - https://www.turbosquid.com/3d-models/free-max-model-architectural-modules/767833 (Turbosquid Standard 3D Model License)  
+Igloo - "3D Igloo model"/iglu.fbx - TacoKid - https://www.turbosquid.com/3d-models/3d-igloo-model-1311202 (Turbosquid Standard 3D Model License)  
 Duck - 
 Candy Cane, Gifts, -
 Shovel -  
@@ -60,7 +60,7 @@ Candy Cane Pickup Sound - pickup-candy-cane.wav - volivieri - https://freesound.
 Star Pickup Sound - pickup-star.wav - LeonsFlashlight - https://freesound.org/people/LeonsFlashlight/sounds/135014/ (CC0 License)  
 Ambient Wind Sound - ambient-wind.wav - Nox_Sound - https://freesound.org/people/Nox_Sound/sounds/544853/ (CC0 License)  
 No!! - no.wav - Artmasterrich - https://freesound.org/people/Artmasterrich/sounds/345466/ (CC0 License)  
-Snowman Destroy Sound - gore-splat.wav - Artmasterrich - https://freesound.org/people/Artmasterrich/sounds/345466/ (CC0 License)  
+Snowman Destroy Sound - gore-splat.wav - Artmasterrich - https://freesound.org/people/Artmasterrich/sounds/345466/ (CC0 License)    
 Intro - WinterWonderland.wav - Frank Lubek  
 HeyYouBrokeSantasWindow.wav - Frank Lubek  
 HeyThatsMyHatGiveItBack.wav - Frank Lubek  
@@ -86,23 +86,23 @@ Level 2: Grandma's House
 
 Materials:
 
-Red Brick Material - MegaScans Clean Brick Pack - 
-Concrete - Megascans Concrete Vol. 2 - 
-Wood Textures - Megascans Wooden Veneer (check name)
-Door Material - MI_Door - AncientOrange https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2F333c539c-253d-4900-aab3-9e9bdd76327a%2Fd4ix003-58809ae6-5394-481d-aef8-8b4cde39b0bb.jpg%2Fv1%2Ffill%2Fw_900%2Ch_1800%2Cq_75%2Cstrp%2Fdoor_texture_by_ancientorange_d4ix003-fullview.jpg%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xODAwIiwicGF0aCI6IlwvZlwvMzMzYzUzOWMtMjUzZC00OTAwLWFhYjMtOWU5YmRkNzYzMjdhXC9kNGl4MDAzLTU4ODA5YWU2LTUzOTQtNDgxZC1hZWY4LThiNGNkZTM5YjBiYi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.G0UF06CN_kk8u05oygxrfhZ0kJ5gCnFRcHa9jh1DOPk&imgrefurl=https%3A%2F%2Fwww.deviantart.com%2Fancientorange%2Fart%2Fdoor-texture-273637443&tbnid=FltMnDgpXDA_3M&vet=12ahUKEwisrKrO1sDtAhXIJ6wKHTZKDLAQMygBegUIARCxAQ..i&docid=-O10YFXt3mAGAM&w=900&h=1800&q=unity%20door%20texture&ved=2ahUKEwisrKrO1sDtAhXIJ6wKHTZKDLAQMygBegUIARCxAQ
-
-Models and Blueprints:
-
-House and Closet Design And Layout - Frank Lubek
-Fireplace - BP_Fireplace - Frank Lubek
-Logs - 
-Coal Chunks - BP_CoalChunk - Frank Lubek (Snowball from Level 1 used as a base object)
-Deer - deer.obj - bariacg - https://www.turbosquid.com/3d-models/3d-model-deer-character/790756 (Turbosquid Standard 3D Model License)
-BP_PresentMultiContents - Frank Lubek
-Table - Frank Lubek
-Santa - 
-Gingerbread Man - 
-Wreath - 
+Red Brick Material - MegaScans Clean Brick Pack -   
+Concrete - Megascans Concrete Vol. 2 -   
+Wood Textures - Megascans Wooden Veneer (check name)  
+Door Material - MI_Door - AncientOrange https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2F333c539c-253d-4900-aab3-9e9bdd76327a%2Fd4ix003-58809ae6-5394-481d-aef8-8b4cde39b0bb.jpg%2Fv1%2Ffill%2Fw_900%2Ch_1800%2Cq_75%2Cstrp%2Fdoor_texture_by_ancientorange_d4ix003-fullview.jpg%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xODAwIiwicGF0aCI6IlwvZlwvMzMzYzUzOWMtMjUzZC00OTAwLWFhYjMtOWU5YmRkNzYzMjdhXC9kNGl4MDAzLTU4ODA5YWU2LTUzOTQtNDgxZC1hZWY4LThiNGNkZTM5YjBiYi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.G0UF06CN_kk8u05oygxrfhZ0kJ5gCnFRcHa9jh1DOPk&imgrefurl=https%3A%2F%2Fwww.deviantart.com%2Fancientorange%2Fart%2Fdoor-texture-273637443&tbnid=FltMnDgpXDA_3M&vet=12ahUKEwisrKrO1sDtAhXIJ6wKHTZKDLAQMygBegUIARCxAQ..i&docid=-O10YFXt3mAGAM&w=900&h=1800&q=unity%20door%20texture&ved=2ahUKEwisrKrO1sDtAhXIJ6wKHTZKDLAQMygBegUIARCxAQ  
+  
+Models and Blueprints:  
+  
+House and Closet Design And Layout - Frank Lubek  
+Fireplace - BP_Fireplace - Frank Lubek  
+Logs -   
+Coal Chunks - BP_CoalChunk - Frank Lubek (Snowball from Level 1 used as a base object)  
+Deer - deer.obj - bariacg - https://www.turbosquid.com/3d-models/3d-model-deer-character/790756 (Turbosquid Standard 3D Model License)  
+BP_PresentMultiContents - Frank Lubek  
+Table - Frank Lubek  
+Santa -   
+Gingerbread Man -   
+Wreath -   
 Stocking - 
 
 
