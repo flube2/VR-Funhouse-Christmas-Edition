@@ -25,6 +25,7 @@ Level 1: Winter Wonderland
 
 Landscape, Sculpting, etc - Frank Lubek  
 Snow Material - "Megascans - Snow" Pack - Quixel Megascans - Search Epic Games Marketplace to find it  
+Trees - PigArt Tree - Mitylernal - https://www.turbosquid.com/3d-models/free-3ds-model-pigart-trees/1038262 (Turbosquid Standard 3D Model License)  
   
 Models:  
 Picnic Table - "Picnic Table 3D model"/picnicTable.fbx - barism09 - https://www.turbosquid.com/3d-models/table-picnic-3d-model-1347295 (Turbosquid Standard 3D Model License)  
@@ -41,12 +42,11 @@ Grill - "3D Old Grill"/Grill.fbx - Iridesium - https://www.turbosquid.com/3d-mod
 Painting - "Relaxing Sip, WaterColor. 3D model"/fbxPainting.fbx - Marc Mons - https://www.turbosquid.com/3d-models/painting-art-picture-3d-model-1279027 (Turbosquid Standard 3D Model License)  
 Pedestal - 001_Pedestal_low_poly.fbx - Roombaroom - https://www.turbosquid.com/3d-models/free-max-model-architectural-modules/767833 (Turbosquid Standard 3D Model License)  
 Igloo - "3D Igloo model"/iglu.fbx - TacoKid - https://www.turbosquid.com/3d-models/3d-igloo-model-1311202 (Turbosquid Standard 3D Model License)  
-Duck - 
-Candy Cane, Gifts, -
-Shovel -  
+Duck - Christmas Duck - MichaelTaylor3D - https://www.turbosquid.com/3d-models/free-christmas-duck-3d-model/567052 (Turbosquid Standard 3D Model License)  
+Shovel - Snow Shovel - kropaman - https://www.turbosquid.com/3d-models/realistic-snow-shovel-3d-model/971998 (Turbosquid Standard 3D Model License)  
 Window - BP_Window - Frank Lubek
 Candle and Stand - 
-  
+SantaHat - Santa Hat -  khalidsrri - https://www.turbosquid.com/3d-models/free-santa-hat-3d-model/783551 (Turbosquid Standard 3D Model License)    
   
   
 Audio:  
