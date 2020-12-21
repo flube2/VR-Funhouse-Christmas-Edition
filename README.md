@@ -27,7 +27,7 @@ If you would like me to add support for another device, please email me and sugg
   
 3. Descriptions  
 A snowy, holiday themed virtual reality game that's all about interacting with the environment in an immersive way. Throw objects, smash presents, break a window. Heck destroy anything you can, you don't have to pay for it.  
-A Christmas themed virtual reality game developed for Steam VR.  
+  
 VR Funhouse: Christmas Edition is a VR game (more like a demo) taking place at first in a wintry forest, and then in Grandma's living room. There are multiple types of objects to interact with in each level. It is scaled to work in a 10' x 10' area or larger.  
 Credits are temporarily located in the GitHub repo. I will be listing them on my gaming website as well as in game soon.  
 Search GitHub for flube2 Christmas Edition and click on SOURCES.md  
