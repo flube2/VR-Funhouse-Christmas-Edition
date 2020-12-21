@@ -1,5 +1,6 @@
 #README.md
   
+  ***If using SteamVR and controllers don't grab then see section 6***
   
 Table Of Contents:  
 1._Legal  
@@ -46,6 +47,7 @@ On HTC Vive, Valve Index, and Windows Mixed Reality Devices:
 6. Known Bugs  
 - Level 1, when throwing objects into Santa's house sometimes the thrown object will break window and hit all 3 colliders causing all 3 audio clips to play simultaneously.  
 - Menus... There aren't any.  
+- It's more of a failure to configure than it is a bug. If controllers don't grab, make sure it's a device listed in section 5 (above here), and if so it's a matter of SteamVR bindings. I put my headset on while in SteamVR and went into the menu and selected the option for controller bindings. I had to delete and reset the triggers to "GrabRight" and "GrabLeft", and followed by saving it as personal bindings. Then all worked well and I had wasted 3 days on a 5 minute fix.
   
   
 7. Background  

@@ -114,3 +114,7 @@ Deer Sound - deer.wav - dobroide - https://freesound.org/people/dobroide/sounds/
 Deck The Halls - Deck The Halls - Christmas jingle played with bells - Ihaksi - https://freesound.org/people/Ihaksi/sounds/411420/ (CC0 License)  
 Cookie Sound - Eating Apple Crunches » Apple_Crunch_02.wav - https://freesound.org/people/Koops/sounds/20265/ (CC Attribution License)  
 Mug Sound - Mug Hit - germanio - https://freesound.org/people/germanio/sounds/369910/ (CC0 License)  
+Gingerbread Man Hit - Frank Lubek  
+Santa Hit - Frank Lubek  
+Gingerbread Man Destroy - Frank Lubek
+Santa Destroy - Wheresyourchristmasspirit.wav - Frank Lubek
