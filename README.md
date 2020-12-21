@@ -10,7 +10,7 @@ Table Of Contents:
 5._Controls  
 6._Known Bugs  
 7._Background  
-8._Links And Contact Info
+8._Links And Contact Info  
 9._Planned Improvements
   
   
