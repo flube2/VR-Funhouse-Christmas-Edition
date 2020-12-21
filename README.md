@@ -2,14 +2,14 @@
   
   
 Table Of Contents:  
-1. Legal  
-2. Supported Devices  
-3. Descriptions  
-4. To Run  
-5. Controls  
-6. Known Bugs  
-7. Background  
-8. Links And Contact Info
+1._Legal  
+2._Supported Devices  
+3._Descriptions  
+4._To Run  
+5._Controls  
+6._Known Bugs  
+7._Background  
+8._Links And Contact Info
   
   
   
