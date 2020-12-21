@@ -10,6 +10,7 @@ Table Of Contents:
 6._Known Bugs  
 7._Background  
 8._Links And Contact Info
+9._Planned Improvements
   
   
   
@@ -40,6 +41,7 @@ Either pay the couple dollars and download/install via Steam, or clone the sourc
 On HTC Vive, Valve Index, and Windows Mixed Reality Devices:  
 - Grab/Pickup - Grip / Grab buttons (both controllers)  
 - Restart Level - Right click on trackpad on right motion controller  
+- Quit Game - Left click on trackpad on left motion controller
   
   
 6. Known Bugs  
@@ -59,3 +61,9 @@ After a month and a half of development and troubleshooting, the initial version
 - LE Gaming (YouTube) -  https://www.youtube.com/channel/UCXktsWhgxaX6-I8l3FDtq0Q  
 - LE Technology (YouTube) - https://www.youtube.com/channel/UCwk-lG3Peaua0XoK-btBIIQ  
 Contact Emails (Send to both to be safe) - flubek@gmail.com and lubekenterprises2011@gmail.com  
+
+
+9. Planned Improvements  
+- Add splashscreen and menu with Start Game button.
+- Add a win screen for after Level 2 with options to replay or quit.
+- Add support for more VR devices.
