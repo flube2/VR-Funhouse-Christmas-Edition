@@ -24,8 +24,9 @@ Re-map Inputs - Frank Lubek
 Level 1: Winter Wonderland
 
 Landscape, Sculpting, etc - Frank Lubek  
-Snow Material - "Megascans - Snow" Pack - Quixel Megascans - Search Epic Games Marketplace to find it  
-Trees - PigArt Tree - Mitylernal - https://www.turbosquid.com/3d-models/free-3ds-model-pigart-trees/1038262 (Turbosquid Standard 3D Model License)  
+Snow Material - 13_Dirty-Snow From "Megascans - Snow" pack obtained from the Epic Games Marketplace - Quixel Megascans   
+Trees - PigArt Tree - Mitylernal - https://www.turbosquid.com/3d-models/free-3ds-model-pigart-trees/1038262 (Turbosquid Standard 3D Model License) 
+All other materials - Frank Lubek 
   
 Models:  
 Picnic Table - "Picnic Table 3D model"/picnicTable.fbx - barism09 - https://www.turbosquid.com/3d-models/table-picnic-3d-model-1347295 (Turbosquid Standard 3D Model License)  
@@ -33,7 +34,7 @@ Snowman :
 	Model Components: "Snowman Toy" - TroopR - https://www.turbosquid.com/3d-models/free-snowman-snow-toy-3d-model/569891 (Turbosquid Standard 3D Model License)  
 	Model Assembly - Frank Lubek  
 	Model Materials - Frank Lubek  
-Candy Cane - "3D Xmas stuff model" Pack/kandy_kane_wellbended.fbx - GAMEASS - https://www.turbosquid.com/3d-models/3d-christmas-xmas-stuffs-model-1345221 (Turbosquid Standard 3D Model License)  
+Candy Cane, Presents - "3D Xmas stuff model" Pack/kandy_kane_wellbended.fbx - GAMEASS - https://www.turbosquid.com/3d-models/3d-christmas-xmas-stuffs-model-1345221 (Turbosquid Standard 3D Model License)  
 Candy (Lollipop, Chocolate Bar, PB Cup) - "Candy Set" Pack - Snakelover - https://www.turbosquid.com/3d-models/set-candy-lollipop-chocolate-3ds/330185 (Turbosquid Standard 3D Model License)  
 Snowball - "3D Cliffside Rock One model"/Cliff_Rock_One_FBX.fbx - GetDeadEntertainment - https://www.turbosquid.com/3d-models/3d-rock-cliff-model-1623382 (Turbosquid Standard 3D Model License)  
 Star - star.obj - boommaster - https://www.turbosquid.com/3d-models/star-3ds/378264 (Turbosquid Standard 3D Model License)  
@@ -44,10 +45,12 @@ Pedestal - 001_Pedestal_low_poly.fbx - Roombaroom - https://www.turbosquid.com/3
 Igloo - "3D Igloo model"/iglu.fbx - TacoKid - https://www.turbosquid.com/3d-models/3d-igloo-model-1311202 (Turbosquid Standard 3D Model License)  
 Duck - Christmas Duck - MichaelTaylor3D - https://www.turbosquid.com/3d-models/free-christmas-duck-3d-model/567052 (Turbosquid Standard 3D Model License)  
 Shovel - Snow Shovel - kropaman - https://www.turbosquid.com/3d-models/realistic-snow-shovel-3d-model/971998 (Turbosquid Standard 3D Model License)  
-Window - BP_Window - Frank Lubek  
 Candle and Stand - Candles - Tsaruk Shpinok - https://www.turbosquid.com/3d-models/free-max-model-decor-candles/1111309 (Turbosquid Standard 3D Model License)  
-SantaHat - Santa Hat -  khalidsrri - https://www.turbosquid.com/3d-models/free-santa-hat-3d-model/783551 (Turbosquid Standard 3D Model License)  
-  
+SantaHat - Santa Hat -  khalidsrri - https://www.turbosquid.com/3d-models/free-santa-hat-3d-model/783551 (Turbosquid Standard 3D Model License) 
+Present2 - "Gift Box with Red rubbons"/prezentBOX.fbx - POPA_3D - https://www.turbosquid.com/3d-models/free-3ds-model-gift-box-red/450470 (Turbosquid Standard 3D Model License)   
+Window - Frank Lubek  
+House - Frank Lubek  
+Snowman Puddle - Frank Lubek  
   
 Audio:  
 Present Pickup Sound - pickup-box.wav - WiesenWiesel - https://freesound.org/people/WiesenWiesel/sounds/216629/ (CC Attribution License)  
@@ -60,35 +63,34 @@ Candy Cane Pickup Sound - pickup-candy-cane.wav - volivieri - https://freesound.
 Star Pickup Sound - pickup-star.wav - LeonsFlashlight - https://freesound.org/people/LeonsFlashlight/sounds/135014/ (CC0 License)  
 Ambient Wind Sound - ambient-wind.wav - Nox_Sound - https://freesound.org/people/Nox_Sound/sounds/544853/ (CC0 License)  
 No!! - no.wav - Artmasterrich - https://freesound.org/people/Artmasterrich/sounds/345466/ (CC0 License)  
-Snowman Destroy Sound - gore-splat.wav - Artmasterrich - https://freesound.org/people/Artmasterrich/sounds/345466/ (CC0 License)    
-Intro - WinterWonderland.wav - Frank Lubek  
+Snowman Destroy Sound - gore-splat.wav - Artmasterrich - https://freesound.org/people/Artmasterrich/sounds/345466/ (CC0 License)  
+Shovel Pickup Sound - pickup-shovel.wav - zepurple - https://freesound.org/people/zepurple/sounds/540264/ (CC0 License)  
+Contains Candy - special-open-present.wav - TreasureSounds - https://freesound.org/people/TreasureSounds/sounds/332629/ (CC Attribution License)  
+Intro - WinterWonderland.wav - Frank Lubek    
+Snowman Hit Sound - SnowmanHit.wav - Frank Lubek  
 HeyYouBrokeSantasWindow.wav - Frank Lubek  
 HeyThatsMyHatGiveItBack.wav - Frank Lubek  
 DontDisturbMe.wav - Frank Lubek  
+DontMakeMeComeOutThere.wav - Frank Lubek  
 ThatsItYoureGettingCoalForChristmas.wav - Frank Lubek  
-Shovel Pickup Sound - pickup-shovel.wav - zepurple - https://freesound.org/people/zepurple/sounds/540264/ (CC0 License)  
   
   
-  
-Review These:
-Present2 - "Gift Box with Red rubbons"/prezentBOX.fbx - POPA_3D - https://www.turbosquid.com/3d-models/free-3ds-model-gift-box-red/450470 (Turbosquid Standard 3D Model License)
-Particle Effects (UE Market)
+Other:  
+Particle Effects - Kakky - Search for "FX Variety Pack" on Unreal Marketplace  
+Physics, Triggers, Colliders, etc - Frank Lubek   
 
 
 
 
 Level 2: Grandma's House  
-#Anything reused from level 1 will likely not be listed again. See above credits.  
   
 Materials:  
-  
-Red Brick Material - MegaScans Clean Brick Pack -   
-Concrete - Megascans Concrete Vol. 2 -   
-Wood Textures - Megascans Wooden Veneer (check name)  
+Red Brick Material - Quixel Megascans - "MegaScans Clean Bricks" Pack in Unreal Marketplace  
+Concrete - Quixel Megascans - "Megascans Concrete Vol. 2" in Unreal Marketplace   
+Wood Textures - Quixel Megascans - Megascans Ultimate Wood Veneers" in Unreal Marketplace  
 Door Material - MI_Door - AncientOrange - https://tinyurl.com/y7lk6gku  
   
 Models and Blueprints:  
-  
 House and Closet Design And Layout - Frank Lubek  
 Fireplace - BP_Fireplace - Frank Lubek  
 Logs - Half Cutted Log - wersaus33 - https://www.turbosquid.com/3d-models/half-cut-log-tree-3d-model-1203066 (Turbosquid Standard 3D Model License)  
@@ -106,6 +108,11 @@ Candle - Candle Christmas - Elena_shvets - https://www.turbosquid.com/3d-models/
 Cookie - Xmas Tree Cookie - gagui - https://www.turbosquid.com/3d-models/max-xmas-tree-cookie/785694 (Turbosquid Standard 3D Model License)  
 Mug - 3D Coffee Mug Low Poly model - rco_design - https://www.turbosquid.com/3d-models/3d-coffee-mug-model-1378005 (Turbosquid Standard 3D Model License)  
 Plate - Game Ready Plate - Etwin - https://www.turbosquid.com/3d-models/free-fbx-mode-simple-plate-games-ready/685481 (Turbosquid Standard 3D Model License)  
+Star - star.obj - boommaster - https://www.turbosquid.com/3d-models/star-3ds/378264 (Turbosquid Standard 3D Model License)  
+Duck - Christmas Duck - MichaelTaylor3D - https://www.turbosquid.com/3d-models/free-christmas-duck-3d-model/567052 (Turbosquid Standard 3D Model License)  
+Bookcase - "Book Case" - Michael Singh - https://www.turbosquid.com/3d-models/bookcase-ase-books-free/688367 (Turbosquid Standard 3D Model License)  
+Ornaments - Frank Lubek  
+
 
 Audio:  
 Ornament Sound - "clink- on glass- dull.wav"/orn.wav - freemaster2 - https://freesound.org/people/freemaster2/sounds/120842/ (CC0 License)  
@@ -118,3 +125,14 @@ Gingerbread Man Hit - Frank Lubek
 Santa Hit - Frank Lubek  
 Gingerbread Man Destroy - Frank Lubek
 Santa Destroy - Wheresyourchristmasspirit.wav - Frank Lubek
+Present Pickup Sound - pickup-box.wav - WiesenWiesel - https://freesound.org/people/WiesenWiesel/sounds/216629/ (CC Attribution License)  
+Duck Quack - duck-quack.wav - qubodup - https://freesound.org/people/qubodup/sounds/442820/ (CC Attribution License)  
+Present Open Sound - drop-box.wav - newagesoup - https://freesound.org/people/newagesoup/sounds/364740/ (CC0 License)  
+Candy Pickup Sound - pickup-candy.wav - Davidsraba - https://freesound.org/people/Davidsraba/sounds/347174/ (CC0 License)  
+Contains Candy - special-open-present.wav - TreasureSounds - https://freesound.org/people/TreasureSounds/sounds/332629/ (CC Attribution License) 
+Snowball Pickup Sound - pickup-snowball.wav - GreenFireSound - https://freesound.org/people/GreenFireSound/sounds/501888/ (CC0 License)  
+Door Down - Frank Lubek
+Ambient Fire Sound - From UE4's Engine Content or Starter Content 
+
+
+All othr FX, lighting, materials, model assembly, triigers, physics, etc, etc, etc. - Frank Lubek
