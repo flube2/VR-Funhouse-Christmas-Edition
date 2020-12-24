@@ -135,4 +135,4 @@ Door Down - Frank Lubek
 Ambient Fire Sound - From UE4's Engine Content or Starter Content 
 
 
-All othr FX, lighting, materials, model assembly, triigers, physics, etc, etc, etc. - Frank Lubek
+All other FX, lighting, materials, model assembly, triggers, physics, etc. - Frank Lubek

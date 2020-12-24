@@ -38,7 +38,7 @@ Either pay the couple dollars and download/install via Steam, or clone the sourc
   
   
 5. Controls  
-On HTC Vive, Valve Index, and Windows Mixed Reality Devices:  
+On Windows Mixed Reality Devices:  
 - Grab/Pickup - Grip / Grab buttons (both controllers)  
 - Restart Level - Right click on trackpad on right motion controller  
 - Quit Game - Left click on trackpad on left motion controller
@@ -68,4 +68,3 @@ Contact Emails (Send to both to be safe) - flubek@gmail.com and lubekenterprises
 - Add splashscreen and menu with Start Game button.
 - Add a win screen for after Level 2 with options to replay or quit.
 - Credits screen.
-- Add support for more VR devices.
