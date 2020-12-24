@@ -78,14 +78,6 @@
 			"requirement": "optional"
 		},
 		{
-			"name": "/actions/main/in/TeleportRight",
-			"type": "boolean"
-		},
-		{
-			"name": "/actions/main/in/TeleportLeft",
-			"type": "boolean"
-		},
-		{
 			"name": "/actions/main/in/GrabLeft",
 			"type": "boolean"
 		},
@@ -224,8 +216,6 @@
 			"/actions/main/out/vibrateleft": "Haptic (Left)",
 			"/actions/main/out/vibrateright": "Haptic (Right)",
 			"/actions/main/in/open_console": "Open Console",
-			"/actions/main/in/TeleportRight": "TeleportRight",
-			"/actions/main/in/TeleportLeft": "TeleportLeft",
 			"/actions/main/in/GrabLeft": "GrabLeft",
 			"/actions/main/in/GrabRight": "GrabRight",
 			"/actions/main/in/RestartLevel": "RestartLevel",
