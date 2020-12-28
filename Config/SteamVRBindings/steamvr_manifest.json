@@ -94,6 +94,10 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/PauseGame",
+			"type": "boolean"
+		},
+		{
 			"name": "/actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d",
 			"type": "vector2"
 		},
@@ -220,6 +224,7 @@
 			"/actions/main/in/GrabRight": "GrabRight",
 			"/actions/main/in/RestartLevel": "RestartLevel",
 			"/actions/main/in/QuitGame": "QuitGame",
+			"/actions/main/in/PauseGame": "PauseGame",
 			"/actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d": "MotionControllerThumbLeft",
 			"/actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d": "MotionControllerThumbRight",
 			"/actions/main": "Main Game Actions"
